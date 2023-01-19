@@ -2,6 +2,9 @@ function tocaSomPom() {
     document.querySelector('#som_tecla_pom').play();
 }
 
+document.querySelectorAll(‘.tecla’).play();
+
+/*
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
 
 function tocaSomClap() {
@@ -12,3 +15,4 @@ function tocaSomClap() {
 //alert('Olá mundo');
 //document.querySelector('.tecla_pom');
 
+*/
