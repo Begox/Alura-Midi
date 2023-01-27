@@ -27,7 +27,8 @@ function tocaSomClap() {
 //alert('Olá mundo');
 //document.querySelector('.tecla_pom');
 
-*/
-
 const listaDeTeclas = document.querySelectorAll('input[type=button]');
 console.log(listaDeTeclas);
+*/
+
+
