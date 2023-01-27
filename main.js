@@ -13,7 +13,7 @@ while (contador < 9) {
     
     contador = contador + 1;
 
-    
+    console.log(contador);
 }
 
 /*
