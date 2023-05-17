@@ -7,7 +7,7 @@ const listaDeTeclas = document.querySelectorAll('.tecla');
 
 let contador = 0;
 
-//enquanto
+//enquanto atualizando e voltando ao projeto (link de 2 pcs no git)
 while (contador < listaDeTeclas.length) {
 
     listaDeTeclas[contador].onclick = function () {
